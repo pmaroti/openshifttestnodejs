@@ -1,0 +1,2 @@
+# openshifttestnodejs
+openshift test nodejs
